@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = vickramb@hotmail.com
+	name = Vickram Bayragee
