@@ -52,3 +52,6 @@
 [user]
 	email = vickramb@hotmail.com
 	name = Vickram Bayragee
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
